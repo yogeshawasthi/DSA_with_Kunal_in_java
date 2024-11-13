@@ -7,6 +7,7 @@
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="frist java programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/Basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +85,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="yogesh.lecture.fristjava_program" />
       <recent name="yogesh.lecture" />
     </key>
   </component>
@@ -171,6 +173,7 @@
       <workItem from="1731117462788" duration="2123000" />
       <workItem from="1731206415430" duration="551000" />
       <workItem from="1731248673842" duration="157000" />
+      <workItem from="1731414825450" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="frist java programs">
       <option name="closed" value="true" />

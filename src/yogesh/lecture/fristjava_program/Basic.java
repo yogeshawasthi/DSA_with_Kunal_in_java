@@ -1,4 +1,4 @@
-package yogesh.lecture;
+package yogesh.lecture.fristjava_program;
 
 public class Basic{
     public static void main (String[] args){

@@ -9,7 +9,7 @@ public class Palindrome {
         System.out.print("Enter a string: ");
         String str = in.nextLine();
         System.out.println("You Entered the string: " + str);
-        System.out.print("Today i am unalbe to to do this program so let`s do it furter days" );
+        System.out.print("Today i am unable to to do this program so let`s do it further days" );
         
     }
 }
