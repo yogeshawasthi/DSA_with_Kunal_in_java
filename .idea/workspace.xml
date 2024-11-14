@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="frist java programs">
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/conditionals_ and_Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Inputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Typecasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/primitives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/sum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +187,9 @@
       <workItem from="1731206415430" duration="551000" />
       <workItem from="1731248673842" duration="157000" />
       <workItem from="1731414825450" duration="1581000" />
+      <workItem from="1731514501792" duration="138000" />
+      <workItem from="1731514655920" duration="195000" />
+      <workItem from="1731514918890" duration="531000" />
     </task>
     <task id="LOCAL-00001" summary="frist java programs">
       <option name="closed" value="true" />

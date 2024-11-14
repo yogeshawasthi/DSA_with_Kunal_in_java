@@ -1,4 +1,4 @@
-package yogesh;
+package yogesh.lecture.fristjava_program;
 
 import java.util.Scanner;
 
