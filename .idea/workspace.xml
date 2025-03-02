@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="frist java programs">
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/conditionals_ and_Loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/conditionals_&amp;_Loops/conditionals_ and_Loops/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/Conditionals and loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/in.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Inputs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Temperature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/Typecasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/primitives.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/lecture/sum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,44 +61,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_series.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Temperature.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arithemectic_operation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.currency_converter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.even_even.executor&quot;: &quot;Run&quot;,
-    &quot;Application.largestone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.message.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primitives.executor&quot;: &quot;Run&quot;,
-    &quot;Application.simple_interest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.yogesh.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/GitHub/DSA_with_Kunal_in_java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Documents/GitHub/DSA with Kunal Khushuwa/DSA with Kunal in java/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.Fibonacci_series.executor": "Run",
+    "Application.Inputs.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Temperature.executor": "Run",
+    "Application.arithemectic_operation.executor": "Run",
+    "Application.currency_converter.executor": "Run",
+    "Application.even_even.executor": "Run",
+    "Application.input.executor": "Run",
+    "Application.largestone.executor": "Run",
+    "Application.message.executor": "Run",
+    "Application.primitives.executor": "Run",
+    "Application.simple_interest.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.yogesh.Demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/DSA_with_Kunal_in_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/Documents/GitHub/DSA with Kunal Khushuwa/DSA with Kunal in java/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="yogesh.lecture.fristjava_program" />
       <recent name="yogesh.lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kunal.Demo" />
       <module name="DSA with Kunal in java" />
@@ -151,20 +149,12 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.largestone" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.largestone" />
         <item itemvalue="Application.primitives" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
