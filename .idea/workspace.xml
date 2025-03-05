@@ -12,10 +12,10 @@
       <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/Conditionals and loops.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/in.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/typecating_pc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +71,18 @@
     "Application.arithemectic_operation.executor": "Run",
     "Application.currency_converter.executor": "Run",
     "Application.even_even.executor": "Run",
+    "Application.factorial.executor": "Run",
     "Application.input.executor": "Run",
     "Application.largestone.executor": "Run",
+    "Application.loop.executor": "Run",
     "Application.message.executor": "Run",
+    "Application.practice.executor": "Run",
     "Application.primitives.executor": "Run",
     "Application.simple_interest.executor": "Run",
     "Application.sum.executor": "Run",
+    "Application.typecasting_pc.executor": "Run",
     "Application.yogesh.Demo.executor": "Run",
+    "Application.yogesh.lecture.fristjava_program.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
