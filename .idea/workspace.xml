@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
-      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Area_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/sequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Fibonacci_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/Fibonacci_series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/arithemectic_operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/arithemectic_operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/currency_converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/currency_converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/even_even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/even_even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/largestone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/largestone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/simple_interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/simple_interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Area_program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Area_program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
