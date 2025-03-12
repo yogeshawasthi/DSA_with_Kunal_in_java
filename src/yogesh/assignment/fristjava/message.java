@@ -1,4 +1,4 @@
-package yogesh.assignment;
+package yogesh.assignment.fristjava;
 
 import java.util.Scanner;
 

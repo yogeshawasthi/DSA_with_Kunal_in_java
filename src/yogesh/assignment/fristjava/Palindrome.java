@@ -1,6 +1,5 @@
-package yogesh.assignment;
+package yogesh.assignment.fristjava;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Palindrome {

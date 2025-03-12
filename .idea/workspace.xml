@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="frist java programs">
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/Conditionals and loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/Conditionals and loops/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yogesh/lecture/fristjava_program/typecating_pc.java" afterDir="false" />
+    <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Area_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/sequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Fibonacci_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/Fibonacci_series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/arithemectic_operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/arithemectic_operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/currency_converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/currency_converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/even_even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/even_even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/largestone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/largestone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/simple_interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/fristjava/simple_interest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/yogeshawasthi/DSA_with_Kunal_in_java.git&quot;,
-    &quot;accountId&quot;: &quot;f8b63fba-4ff8-40f3-b433-9e2bf88e1a57&quot;
+    &quot;accountId&quot;: &quot;f241f8e1-e66f-4490-86d6-f9d85b49b228&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -61,44 +60,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo.executor": "Run",
-    "Application.Fibonacci_series.executor": "Run",
-    "Application.Inputs.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Temperature.executor": "Run",
-    "Application.arithemectic_operation.executor": "Run",
-    "Application.currency_converter.executor": "Run",
-    "Application.even_even.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.input.executor": "Run",
-    "Application.largestone.executor": "Run",
-    "Application.loop.executor": "Run",
-    "Application.message.executor": "Run",
-    "Application.practice.executor": "Run",
-    "Application.primitives.executor": "Run",
-    "Application.simple_interest.executor": "Run",
-    "Application.sum.executor": "Run",
-    "Application.typecasting_pc.executor": "Run",
-    "Application.yogesh.Demo.executor": "Run",
-    "Application.yogesh.lecture.fristjava_program.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/GitHub/DSA_with_Kunal_in_java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/User/Documents/GitHub/DSA with Kunal Khushuwa/DSA with Kunal in java/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Area_Of_Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Area_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_series.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arithemectic_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.currency_converter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.even_even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largestone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.message.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primitives.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.simple_interest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.typecasting_pc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.typecating_pc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.yogesh.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.yogesh.lecture.fristjava_program.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/GitHub/DSA_with_Kunal_in_java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Documents/GitHub/DSA with Kunal Khushuwa/DSA with Kunal in java/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="yogesh.lecture.fristjava_program" />
@@ -127,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="largestone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yogesh.assignment.largestone" />
+      <option name="MAIN_CLASS_NAME" value="yogesh.assignment.fristjava.largestone" />
       <module name="DSA with Kunal in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yogesh.assignment.*" />
+          <option name="PATTERN" value="yogesh.assignment.fristjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730864745465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="revision codes added falgun">
+      <option name="closed" value="true" />
+      <created>1741201182613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741201182613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +233,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="frist java programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="frist java programs" />
+    <MESSAGE value="revision codes added falgun" />
+    <option name="LAST_COMMIT_MESSAGE" value="revision codes added falgun" />
   </component>
 </project>
