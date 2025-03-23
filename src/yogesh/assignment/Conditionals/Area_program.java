@@ -34,18 +34,18 @@ public class Area_program {
         //Area of Iscoceles Trainle
 
         System.out.println("Enter Three Sides of trianlge as a,b,c : ");
-        float a = in.nextInt();
-        float b = in.nextInt();
-        float c = in.nextInt();
+        float a = in.nextInt();//2
+        float b = in.nextInt();//3
+        float c = in.nextInt();//7
 
-         double  s = (double) ((a + b + c) * 0.5);// type casting to float
+         double  s = (double) ((a + b + c) * 0.5);// type casting to float //6
 
         System.out.println(s);
          double Iso_triangle ;
-         Iso_triangle=Math.sqrt((s*(s-a)*(s-b)*(s-c)));
+         Iso_triangle=Math.sqrt((s*(s-a)*(s-b)*(s-c)));//
 
 
-     System.out.println("Area of Isoceles Triangle is : " +Iso_triangle);
+     System.out.println("Area of Isoceles Triangle is : " + Iso_triangle);
 
         // Area of Parralleogram
 
