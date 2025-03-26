@@ -41,8 +41,9 @@ public class Area_program {
          double  s = (double) ((a + b + c) * 0.5);// type casting to float //6
 
         System.out.println(s);
-         double Iso_triangle ;
-         Iso_triangle=Math.sqrt((s*(s-a)*(s-b)*(s-c)));//
+        double Iso_triangle ;
+        Iso_triangle=Math.sqrt((s*(s-a)*(s-b)*(s-c)));//
+        System.out.println(Iso_triangle);
 
 
      System.out.println("Area of Isoceles Triangle is : " + Iso_triangle);
