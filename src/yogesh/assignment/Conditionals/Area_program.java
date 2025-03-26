@@ -32,6 +32,7 @@ public class Area_program {
         System.out.println("Area of Rectangle is : "+ len * bre);
 
         //Area of Iscoceles Trainle
+        // i have send code to deepak he will definetly have solution for me
 
         System.out.println("Enter Three Sides of trianlge as a,b,c : ");
         float a = in.nextInt();//2
