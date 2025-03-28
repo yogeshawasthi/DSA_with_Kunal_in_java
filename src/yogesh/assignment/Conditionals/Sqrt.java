@@ -18,7 +18,7 @@ public class Sqrt {
 
         System.out.println(s);
         double Iso_triangle ;
-        Iso_triangle=Math.sqrt((s*(s-a)*(s-b)*(s-c)));//
+        Iso_triangle=Math.sqrt((s*(s-a)*(s-b)*(s-c)));// good to use with varaible
         System.out.println(Iso_triangle);
 
     }
