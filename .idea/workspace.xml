@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
-      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Area_Equi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Leetcode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Application.Demo.executor": "Run",
     "Application.Fibonacci_series.executor": "Run",
     "Application.Inputs.executor": "Run",
+    "Application.Leetcode.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PrintSequence.executor": "Run",
     "Application.Sqrt.executor": "Run",
