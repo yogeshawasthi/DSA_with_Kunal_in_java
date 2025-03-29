@@ -9,14 +9,15 @@ public class Leetcode {
         int num = in.nextInt();
 
 //        int count = 0;
-//        int mod = num/10;
+//        int mod = num / 10;
 //        System.out.println("mod is working or not check "+ mod);
 
         int sum = 0;
-        long mul = 1;
+        long mul = 1l;
         while (num>0) {
-            sum = sum + num % 10;
-            mul = mul * num % 10;
+            sum = sum + num%10;
+            mul = mul *( num%10);
+            System.out.println(mul);
             num = num / 10;
         }
 //        System.out.println(mul);
