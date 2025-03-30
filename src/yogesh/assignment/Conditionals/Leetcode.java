@@ -17,14 +17,13 @@ public class Leetcode {
         while (num>0) {
             sum = sum + num%10;
             mul = mul *( num%10);
-            System.out.println(mul);
             num = num / 10;
         }
-//        System.out.println(mul);
-//        System.out.println("Multiplied = " + mul);
-//        System.out.println("Sum of digits = " + sum);
-//        long result = mul - sum;
-//        System.out.println(" Result is : "+ result);
+        System.out.println(mul);
+        System.out.println("Multiplied = " + mul);
+        System.out.println("Sum of digits = " + sum);
+        long result = mul - sum;
+        System.out.println(" Result is : "+ result);
 
     }
 

@@ -27,5 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-src/yogesh/lecture/Conditionals and loops/
-.idea/workspace.xml
+src/yogesh/lecture/Conditionals and loops/.idea/workspace.xml
