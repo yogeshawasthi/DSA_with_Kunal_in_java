@@ -7,6 +7,6 @@ public class Sum {
         int a = in.nextInt();
         int b = in.nextInt();
         int c = a+b;
-        System.out.printf("Sum of two Number is : ", c);
+        System.out.println("Sum of two Number is : ", c);
     }
 }
