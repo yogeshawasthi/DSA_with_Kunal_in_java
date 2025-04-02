@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun" />
+    <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Sphere.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Area1.executor": "Run",
     "Application.Area_Equi.executor": "Run",
     "Application.Area_Of_Circle.executor": "Run",
     "Application.Area_program.executor": "Run",
