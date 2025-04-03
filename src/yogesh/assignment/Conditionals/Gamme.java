@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Gamme {
     public static void main(String[] args) {
-        System.out.println("Lets start game");
+        System.out.println("Lets, start  The game");
         Scanner in = new Scanner(System.in);
         int count = 0;
         while (count>=0){
