@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Avg {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("How many number you want to enter TO find avereage");
+        System.out.println("How ma ny number you want to enter TO find avereage");
         int num= input.nextInt();
         int count=0;
         for(int i=num;i>=1;i--){
