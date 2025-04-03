@@ -8,7 +8,7 @@ public class Gamme {
         int count = 0;
         while (count>=0){
 
-            System.out.println("Enter a num");
+            System.out.println("Enter a number");
             int num = in.nextInt();
             if(num>count){
                 count=num;

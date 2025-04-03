@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Game {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("This is Game, It won`t stop Until  You enter a magical number ");
+        System.out.println("This is Game, oh. It won`t stop Until  You enter a magical number ");
         int count = 0;
         while (count>=0) {
             System.out.println(" Enter a number that comes to your mind : ");
