@@ -1,3 +1,4 @@
+
 package yogesh.assignment.Conditionals;
 import java.util.Scanner;
 

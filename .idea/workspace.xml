@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
-      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Discount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,8 @@
     "Application.Area_program.executor": "Run",
     "Application.Avg.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Discount.executor": "Run",
+    "Application.Distance.executor": "Run",
     "Application.Elec.executor": "Run",
     "Application.Fibonacci_series.executor": "Run",
     "Application.Game.executor": "Run",
