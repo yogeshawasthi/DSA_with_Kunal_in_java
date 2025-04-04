@@ -1,7 +1,7 @@
 
 package yogesh.assignment.Conditionals;
 import java.util.Scanner;
-
+// Calculation of Discount amount along with Selling price after discount
 public class Discount {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
