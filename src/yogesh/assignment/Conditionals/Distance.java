@@ -6,7 +6,7 @@ import java.lang.Math;
 public class Distance {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the Coordinates of Frist Point");
+        System.out.println("Enter the Coordinates of First Point");
         int x1 = in.nextInt();
         int y1 = in.nextInt();
         System.out.println("Enter the coordinate of Second Point");
