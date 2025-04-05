@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
-      <change beforePath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Power_Of_NUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
     "Application.Leetcode.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Perimeter.executor": "Run",
+    "Application.Power_Of_NUm.executor": "Run",
     "Application.PrintSequence.executor": "Run",
     "Application.Sphere.executor": "Run",
     "Application.Sqrt.executor": "Run",
