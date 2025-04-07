@@ -6,16 +6,19 @@ public class Gpa {
         Scanner in = new Scanner(System.in);
         System.out.println("How many subject you have : ");
         int num = in.nextInt();
-        int count = 0;
-        while (num>=1){
+        int loop = num;
+        float count = 0;
+        while (loop>=1){
             System.out.println("Enter The Marks: ");
             int mark = in.nextInt();
+
             count+=mark;
             System.out.println(count);
-            num--;
+            loop--;
 
         }
-        int gpa = count/num;
+
+        float gpa = ((count/num*100)*4);
         System.out.println(gpa);
         System.out.println("Gpa is : "+gpa);
 
