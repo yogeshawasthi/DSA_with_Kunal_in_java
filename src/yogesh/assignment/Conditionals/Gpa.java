@@ -11,10 +11,12 @@ public class Gpa {
             System.out.println("Enter The Marks: ");
             int mark = in.nextInt();
             count+=mark;
+            System.out.println(count);
             num--;
 
         }
-        float gpa =(float) (count/num)*4;
+        int gpa = count/num;
+        System.out.println(gpa);
         System.out.println("Gpa is : "+gpa);
 
     }
