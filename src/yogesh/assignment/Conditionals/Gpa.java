@@ -20,7 +20,7 @@ public class Gpa {
 
         float gpa = ((count/num*100)*4);
         System.out.println(gpa);
-        System.out.println("Gpa is : "+gpa);
+        System.out.println("Gpa is : " +gpa);
 
     }
 }
