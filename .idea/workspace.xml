@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun" />
+    <list default="true" id="2a7cff41-6136-4b27-8be8-da6f3a38a164" name="Changes" comment="revision codes added falgun">
+      <change afterPath="$PROJECT_DIR$/src/yogesh/assignment/Conditionals/Fact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +118,7 @@
       <recent name="yogesh.lecture" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kunal.Demo" />
       <module name="DSA with Kunal in java" />
