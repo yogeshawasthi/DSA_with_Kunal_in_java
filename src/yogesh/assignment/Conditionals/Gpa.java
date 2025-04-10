@@ -17,8 +17,8 @@ public class Gpa {
             loop--;
 
         }
-            
-        float gpa = ((count/num*100)*4);
+
+        float gpa = (float) ((count/(num*100))*4);
         System.out.println(gpa);
         System.out.println("Gpa is : " +gpa);
 
