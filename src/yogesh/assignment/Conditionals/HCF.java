@@ -15,10 +15,19 @@ public class HCF {
         if (num1>num2){
             count= num1/num2;
             rem = num1 % num2;
+            if (rem==0){
+                System.out.println("The Hcf is "+num2);
+            } else {
+                num1=num2;
+                num2=
+
+            }
         }else {
             count = num2/num1;
             rem = num2%num1;
         }
+
+
 
     }
 }
