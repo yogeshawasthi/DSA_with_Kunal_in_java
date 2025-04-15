@@ -14,6 +14,6 @@ public class Avg {
 
         }
         float avg = (float) count/num;
-        System.out.println("Average is : "+avg);
+        System.out.println("A verage is : "+avg);
     }
 }

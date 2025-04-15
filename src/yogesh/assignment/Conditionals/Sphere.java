@@ -10,5 +10,5 @@ public class Sphere {
         int Area = (4/3)*(22/7)*rad*rad*rad;
         System.out.println("Volume of Sphere : " +Area);
     }
-    
+
 }
