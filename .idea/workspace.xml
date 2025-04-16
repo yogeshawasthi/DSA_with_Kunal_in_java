@@ -119,7 +119,7 @@
       <recent name="yogesh.lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kunal.Demo" />
       <module name="DSA with Kunal in java" />

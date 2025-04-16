@@ -1,63 +1,26 @@
-package yogesh.assignment.Conditionals;
-import  java.util.Scanner;
-//Euclidean Algorithm
+import java.util.Scanner;
 
-public class HCF {
+public class HCF{
     public static void main(String[] args) {
-        System.out.println("Enter Two number  For Finding HCF : ");
-        Scanner in = new Scanner(System.in);
-        
-        int num1 = in.nextInt();
-        int num2 = in.nextInt();
-        int rem=num1;
-        int count;
+        Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Let`s Find Out HCF: ");
-        if (num1>num2)
-        {
-            while (rem==0) {
+        System.out.print("Enter first number: ");
+        int num1 = scanner.nextInt();
 
+        System.out.print("Enter second number: ");
+        int num2 = scanner.nextInt();
 
-                count = num1 / num2;
-                System.out.println(count);
-                rem = num1 % num2;
-                System.out.println(rem);
-                if (rem == 0) {
-                    System.out.println("The Hcf is " + num2);
-                } else {
-                    num1 = num2;
-                    num2 = rem;
+        int hcf = calculateHCF(num1, num2);
 
-                    count = num1 / num2;
-                    rem = num1 % num2;
+        System.out.println("HCF of " + num1 + " and " + num2 + " is: " + hcf);
+    }
 
-
-
-                }
-            }
-
-
-
-        }else {
-            while (rem==0) {
-                count = num1 / num2;
-                rem = num1 % num2;
-                if (rem == 0) {
-                    System.out.println("The Hcf is " + num2);
-                } else {
-                    num1 = num2;
-                    num2 = rem;
-
-                    count = num1 / num2;
-                    rem = num1 % num2;
-                }
-            }
-
+    public static int calculateHCF(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-
-
-
+        return a;
     }
 }
-
-//lets do it tommorrow sorry not today day after tommorow
