@@ -9,7 +9,7 @@ public class loop {
         int count = 1;
         while(count<=10)
         {
-            System.out.println( num + " * " + count + "  = " + num * count);
+            System.out.println( num + "  *  " + count + "  = " + num * count);
             count+=1;// count = count + 1
 
         }
