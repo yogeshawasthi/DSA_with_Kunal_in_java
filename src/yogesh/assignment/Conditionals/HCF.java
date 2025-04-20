@@ -22,6 +22,6 @@ public class HCF{
             a = temp;
         }
         return a;
-        //iam ver y
+        //iam ver  but i promise i will be there for you tommorow for sure
     }
 }
