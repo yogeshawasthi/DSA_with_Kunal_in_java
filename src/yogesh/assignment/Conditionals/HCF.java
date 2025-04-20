@@ -22,5 +22,6 @@ public class HCF{
             a = temp;
         }
         return a;
+        //iam ver y
     }
 }
