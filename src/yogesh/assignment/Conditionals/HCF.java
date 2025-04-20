@@ -22,6 +22,7 @@ public class HCF{
             a = temp;
         }
         return a;
-        //iam ver  but i promise i will be there for you tommorow for sure
-    }
+        //iam ver  but i promi
+        // //se i will be there for you tommorow for sure
+    }// i have to project 
 }
