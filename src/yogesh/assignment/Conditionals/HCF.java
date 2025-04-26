@@ -24,5 +24,5 @@ public class HCF{
         return a;
         //iam ver  but i promi
         // //se i will be there for you tommorow for sure
-    }// i have to project 
+    }// i have to project to complete forntedn bofere 21st of this month os i will not be here anny more
 }
