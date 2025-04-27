@@ -26,3 +26,4 @@ public class HCF{
         // //se i will be there for you tommorow for sure
     }// i have to project to complete forntedn bofere 21st of this month os i will not be here anny more
 }
+//again we need to stop this coz we will do it lateron e
